@@ -10,7 +10,3 @@ if temp >0 and temp < 30:
     print('what a good weather')
 else:
     print('the weather is not comfortable')
-
-
-
-   
